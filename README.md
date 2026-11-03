@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zDen4ik07/sda/tree/master/0088-merge-sorted-array) |
+| [0704-binary-search](https://github.com/zDen4ik07/sda/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/zDen4ik07/sda/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/zDen4ik07/sda/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/zDen4ik07/sda/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
