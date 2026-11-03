@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/zDen4ik07/sda/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/zDen4ik07/sda/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/zDen4ik07/sda/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/zDen4ik07/sda/tree/master/0912-sort-an-array) |
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/zDen4ik07/sda/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/zDen4ik07/sda/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
